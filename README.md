@@ -16,7 +16,7 @@ The dataset is aquired from kaggle and the link is given below :
 
 https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 
-The dataset consists of following five features of 200 customers:
+The dataset consists of following five features of 200 customers :
 
 -  CustomerID: Unique ID assigned to the customer
 
